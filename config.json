@@ -1,0 +1,13 @@
+{
+    "server": {
+        "user": "tunnel",
+        "host": "target.host"
+    },
+    "developers": {
+        "alex": {
+            "name": "Alex Manroe",
+            "dev_bind": "tunnel.alex:80",
+            "remote_bind": "0.0.0.0:45011"
+        },
+    }
+}
