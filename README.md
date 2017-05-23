@@ -6,9 +6,9 @@ this tool for make tunnel to your localhost to domain public.
 ### Installation ###
 ---
 
-Clone the project repository via bitbucket:
+Clone the project repository via github:
 ```
-git@bitbucket.org:lanxic/reverse-tunnel.git
+git@github.com:lanxic/reverse-tunnel.git
 
 ```
 
